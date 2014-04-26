@@ -1,4 +1,4 @@
 WebChallenge
 ============
 
-HTML and Pics for Launch Academy Web Challenge
+HTML for Launch Academy Web Challenge
